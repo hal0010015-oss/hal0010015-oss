@@ -1,16 +1,13 @@
-## Hi there 👋
+# Solashia
 
-<!--
-**hal0010015-oss/hal0010015-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一人会社 Solashia です。AIと一緒に、アプリやWebサービスをつくっています。
 
-Here are some ideas to get you started:
+## 公開中のアプリ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Starryfable](https://apps.apple.com/us/app/starryfable/id6800335247)
+
+Make & gift a constellation. 星座をつくって、贈れるアプリです（iOS）。
+
+### [ポイ活ホーム](https://apps.apple.com/jp/app/id6785957077)
+
+複数のポイ活アプリの日々の確認を忘れにくくする、チェックリスト・リマインダーアプリです（iOS）。
